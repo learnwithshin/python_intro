@@ -28,7 +28,7 @@ Follow the instructions to install.
 
 Once installed, open Visual Studio Code. Then go to:
 
-`View` -> `Extension`
+`View` -> `Extensions`
 
 ![Screen Shot3](images/vscode_extension.png)
 

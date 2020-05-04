@@ -21,3 +21,22 @@ We are also going to install Visual Studio Code. Go to the link below and **down
 https://code.visualstudio.com/download
 
 ![Screen Shot3](images/vscode.png)
+
+Follow the instructions to install.
+
+## Install Python Extension
+
+Once installed, open Visual Studio Code. Then go to:
+
+`View` -> `Extension`
+
+![Screen Shot3](images/vscode_extension.png)
+
+In the search bar, type "python"
+
+![Screen Shot3](images/vscode_search_extension.png)
+
+Select the one that says "Python" and click on "Install"
+![Screen Shot3](images/vscode_install_extension.png)
+
+You should be all set for now!

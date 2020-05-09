@@ -82,6 +82,8 @@ Wait for a few, and then you should see a page like below.
 Click on the icon at the top left hand side that says "Jupyter".
 ![Screen Shot3](images/go_to_root.png)
 
+It will pop up a message asking if you want to leave the site. Just click on "Yes".
+
 It should then bring you to this page.
 ![Screen Shot3](images/jupyter_notebook_root.png)
 
@@ -90,6 +92,6 @@ Now drag and drop the files into this page.
 
 ![Screen Shot3](images/drop_files.png)
 
-And then click on "Upload" for those two files. And you shoul be all set!
+Then click on "Upload" for those two files and you should be all set!
 
 ![Screen Shot3](images/uploaded.png)

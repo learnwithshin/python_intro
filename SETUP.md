@@ -59,6 +59,7 @@ Type in "Anaconda" in search bar from Start button
 _Windows 10_
 
 Type in “Anaconda” in Search box
+
 ![Screen Shot3](images/win10_anaconda.png)
 
 #### I still can't find Anaconda Navigator. What should I do?

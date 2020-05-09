@@ -77,9 +77,10 @@ Then you will see a page like this:
 
 Wait for a few, and then you should see a page like below.
 
-Click on the icon at the top left hand side that says "Jupyter".
-
 ![Screen Shot3](images/jupyter_notebook_1.png)
+
+Click on the icon at the top left hand side that says "Jupyter".
+![Screen Shot3](images/go_to_root.png)
 
 It should then bring you to this page.
 ![Screen Shot3](images/jupyter_notebook_root.png)

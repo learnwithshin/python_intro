@@ -95,3 +95,35 @@ Now drag and drop the files into this page.
 Then click on "Upload" for those two files and you should be all set!
 
 ![Screen Shot3](images/uploaded.png)
+
+#### I can't import pandas in my Vistual Studio Code. What should I do?
+
+This might happen if you are using Mac becasue Mac already has python built in. We need to make sure that we are using the python interpreter from the Anaconda.
+
+Go to `View` -> `Command Palatte`
+
+![Screen Shot3](images/command_palatte.png)
+
+In the input bar, type in "Python Select Interpreter"
+
+![Screen Shot3](images/search_select_interpreter.png)
+
+It should show a list of differnt Pythons. Select the one that has **(anaconda3)**. In below example I will select "Python 3.76 64-bit 'anaconda3' virtualenv (You might be seeing different versions of Python but just make sure you pick the one that has "anaconda3" in it).
+
+![Screen Shot3](images/select_anaconda.png)
+
+Now you should be good to go!
+
+#### How can I make the "OUTPUT" panel to display my program output in VS Code?
+
+You will need to install "Code Runner" extension.
+
+Go to `View` -> `Extensions`
+
+![Screen Shot3](images/vscode_extension.png)
+
+In the search bar, type "Code Runner"
+
+![Screen Shot3](images/code_runner.png)
+
+Install the `Code Runner` exntension and you should be good to go!
